@@ -1,0 +1,241 @@
+﻿city,distance,ping
+Adelaide,7855,220.01
+Albany,10657,154.27
+Alblasserdam,9350,241.22
+Albuquerque,9568,143.13
+Algiers,10806,312.77
+Amsterdam,9308,252.37
+Anchorage,5560,129.05
+Ankara,8770,300.92
+Antwerp,9418,254.86
+Arezzo,9760,267.87
+Asheville,10961,165.97
+Athens,9515,310.52
+Atlanta,11037,166.64
+Auckland,8838,328.17
+Austin,10539,141.62
+Baltimore,10885,186.85
+Bangalore,6670,119.94
+Bangkok,4612,120.64
+Barcelona,10420,297.32
+Basel,9612,262.55
+Belfast,9456,233.73
+Bergen,8557,284.48
+Berkeley Springs,10783,184.50
+Berlin,9153,240.28
+Bern,9672,331.35
+Bismarck,9038,183.49
+Bogota,14318,237.50
+Boston,10792,175.38
+Brasilia,17681,286.67
+Bratislava,9102,275.68
+Brisbane,7160,232.47
+Bristol,9656,224.35
+Brno,9042,249.22
+Bruges,9465,270.86
+Brunswick,10671,180.17
+Brussels,9454,254.64
+Bucharest,8887,261.88
+Budapest,9052,294.22
+Buenos Aires,18368,307.47
+Buffalo,10443,186.25
+Bursa,9006,316.21
+Calgary,7991,112.40
+Canberra,7955,243.27
+Cape Town,14743,394.87
+Caracas,14172,206.61
+Cardiff,9674,244.46
+Charlotte,11081,234.71
+Chennai,6422,232.28
+Chicago,10139,158.83
+Chisinau,8535,278.24
+Christchurch,9413,340.99
+Cincinnati,10542,173.63
+Cleveland,10450,152.99
+Colorado Springs,9408,137.69
+Columbus,10536,156.93
+Copenhagen,8695,274.16
+Coventry,9528,235.09
+Cromwell,10812,172.52
+Dagupan,2913,178.25
+Dallas,10395,134.30
+Dar es Salaam,11396,373.75
+Denver,9330,148.59
+Des Moines,9851,218.12
+Detroit,10314,140.68
+Dhaka,4901,273.77
+Dronten,9248,245.70
+Dubai,7951,160.54
+Dublin,9590,300.28
+Dusseldorf,9320,272.83
+Edinburgh,9241,260.74
+Eindhoven,9355,258.40
+Fez,11444,371.16
+Frankfurt,9337,262.46
+Fremont,8313,113.53
+Frosinone,9819,287.64
+Gdansk,8536,287.87
+Geneva,9801,326.04
+Gosport,9668,246.43
+Gothenburg,8550,347.79
+Green Bay,9883,218.33
+Groningen,9152,274.05
+Guadalajara,10891,176.79
+Guatemala,13569,323.01
+Halifax,10780,180.05
+Hamburg,8981,261.29
+Hamilton,10367,171.85
+Hangzhou,1922,114.25
+Hanoi,3676,69.14
+Helsinki,7833,270.08
+Heredia,13166,240.77
+Ho Chi Minh City,4333,178.66
+Hong Kong,2887,45.17
+Honolulu,6204,159.00
+Houston,10735,209.75
+Hyderabad,6326,121.28
+Indianapolis,10400,141.73
+Indore,6261,151.58
+Istanbul,8952,305.49
+Izmir,9258,310.45
+Jackson,10841,177.87
+Jacksonville,11496,175.67
+Jakarta,5790,80.86
+Joao Pessoa,16792,294.32
+Johannesburg,13549,424.69
+Kampala,11533,398.78
+Kansas City,10007,153.00
+Karaganda,5469,359.49
+Kiev,8206,300.87
+Knoxville,10857,153.90
+Koto,4,1.86
+Ktis,9188,262.77
+La Ceiba,12487,173.92
+Lagos,13480,341.16
+Lahore,5964,264.30
+Las Vegas,8904,117.32
+Lausanne,9748,263.30
+Liege,9424,266.70
+Lima,15490,230.73
+Limassol,9118,315.00
+Lisbon,11153,271.67
+Ljubljana,9406,253.68
+London,9563,229.34
+Los Angeles,8812,109.56
+Louisville,10557,158.32
+Lugano,9686,274.10
+Luxembourg,9487,275.24
+Lyon,9901,245.02
+Madrid,10769,247.85
+Maidstone,9562,228.43
+Malaysia,5329,72.26
+Manchester,9449,246.07
+Manhattan,10843,164.17
+Manila,3002,66.19
+Marseille,10096,267.55
+Medellin,14072,235.70
+Melbourne,8188,139.28
+Memphis,10602,163.62
+Mexico,11303,162.68
+Miami,11999,177.43
+Milan,9721,267.91
+Milwaukee,10020,159.01
+Minneapolis,9489,147.73
+Missoula,8264,118.78
+Montevideo,18571,301.40
+Monticello,9925,160.57
+Montreal,10390,225.79
+Moscow,7485,305.82
+Munich,9377,247.60
+Nairobi,11261,385.29
+New Delhi,5847,150.31
+New Orleans,11051,149.28
+New York,10861,158.99
+Newcastle,9284,240.80
+Nis,9219,351.42
+Novosibirsk,4770,245.88
+Nuremberg,9287,260.10
+Oklahoma City,10129,154.36
+Orlando,11677,240.39
+Osaka,402,11.25
+Oslo,8407,290.55
+Palermo,10132,308.09
+Panama,12321,220.72
+Paris,9717,272.43
+Perth,7925,301.87
+Philadelphia,10879,183.34
+Phnom Penh,4410,83.06
+Phoenix,9309,141.30
+Piscataway,10848,157.65
+Pittsburgh,10629,185.98
+Portland,7790,173.37
+Prague,9077,270.67
+Pristina,9311,306.82
+Pune,6676,152.74
+Quebec City,10337,185.30
+Quito,14435,221.13
+Raleigh,11126,187.28
+Redding,8099,118.05
+Reykjavik,8802,293.27
+Richmond,11018,233.25
+Riga,8088,282.82
+Riyadh,8702,767.16
+Rome,9860,293.91
+Roseburg,7876,104.35
+Rotterdam,9351,265.73
+Roubaix,9515,236.84
+Sacramento,8286,116.51
+Salem,10744,180.84
+Salt Lake City,8811,192.22
+San Antonio,10556,155.02
+San Diego,8982,112.44
+San Francisco,8268,109.83
+San Jose,8327,108.66
+San Juan,13412,195.71
+Santiago,17143,273.75
+Sao Paulo,18537,273.17
+Sapporo,832,20.50
+Saskatoon,8325,136.80
+Savannah,11362,202.85
+Scranton,10716,176.24
+Seattle,7693,89.00
+Secaucus,10840,164.39
+Seoul,1159,60.88
+Shanghai,1764,83.04
+Shenzhen,2880,116.38
+Siauliai,8198,264.47
+Singapore,5325,74.21
+Sofia,9180,280.19
+South Bend,10223,150.26
+St Louis,10290,213.68
+St Petersburg,7599,350.75
+Stockholm,8175,278.02
+Strasbourg,9515,248.25
+Sydney,7826,116.27
+Syracuse,10537,170.13
+Taipei,2107,33.36
+Tallinn,7883,286.99
+Tampa,11673,174.02
+Tbilisi,7827,306.83
+Tel Aviv,9159,305.75
+The Hague,9343,243.35
+Thessaloniki,9362,304.70
+Tijuana,9004,132.76
+Tirana,9495,303.70
+Toledo,10351,164.92
+Toronto,10348,175.75
+Tunis,10714,301.67
+Valencia,10715,298.06
+Valletta,10250,290.32
+Vancouver,7552,166.28
+Varna,8862,276.43
+Venice,9539,265.03
+Vienna,9134,238.94
+Vilnius,8192,261.95
+Vladivostok,1066,73.30
+Warsaw,8585,275.31
+Washington,10882,227.67
+Westpoort,9294,267.22
+Winnipeg,8983,124.37
+Zagreb,9349,259.54
+Zurich,9585,317.63
